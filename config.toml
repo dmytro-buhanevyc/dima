@@ -20,9 +20,9 @@ pygmentsCodefencesGuessSyntax = true
 
 [params]
 title = "Dmytro Bukhanevych"
-author = "Jane Doe"
+author = "Dmytro Bukhanevych"
 #copyright = "2020-2021"
-description = "M.A. Political Science // Bingh"
+description = "M.A. Political Science // Binghamton"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
